@@ -1,4 +1,2 @@
 Hello my friend
 This is a tutorial for a github!
-This line was modified!
-This line was added!
