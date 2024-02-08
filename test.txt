@@ -1,1 +1,3 @@
-Hello my friend!
+Hello my friend
+This is a tutorial for a github!
+
